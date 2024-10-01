@@ -66,7 +66,7 @@ img{
   width: 30px;
 }
 main {
-  min-height: 100vh; /* Make the main section fill the viewport */
+  min-height: 100vh; 
 }
 
 
