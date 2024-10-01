@@ -31,9 +31,9 @@
    },
    methods: {
      submitForm() {
-       // Handle form submission (e.g., send data to a server)
+
        alert(`Name: ${this.name}\nEmail: ${this.email}\nMessage: ${this.message}`);
-       // Reset the form fields
+    
        this.name = '';
        this.email = '';
        this.message = '';
